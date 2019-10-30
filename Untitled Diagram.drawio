@@ -1,1 +1,145 @@
-<mxfile host="www.draw.io" modified="2019-10-30T13:42:30.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" version="12.1.8" etag="7hOoHiDK4k2Vf8ujpNFQ" type="github" pages="1"><diagram id="vPj5wQgCcoeqB7lPInKP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-30T17:42:16.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="m2Q9knn-CP86yBQOQiOu" version="12.1.8" type="github" pages="1">
+  <diagram id="vPj5wQgCcoeqB7lPInKP" name="Page-1">
+    <mxGraphModel dx="910" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="140" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-8" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-13" target="Hdip2DMTiZ272ET6Ua_M-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="170" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-13" value="Superviseur des affectations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-16" target="Hdip2DMTiZ272ET6Ua_M-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="60" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-16" value="QFQ / !0K feet" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-21" value="Attribution" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="30" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-22" value="Suivi et ajustements" style="html=1;whiteSpace=wrap;rounded=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-23" value="" style="html=1;shape=mxgraph.bpmn.loop;outlineConnect=0;" vertex="1" parent="Hdip2DMTiZ272ET6Ua_M-22">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-15" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-24" value="" style="html=1;shape=plus;" vertex="1" parent="Hdip2DMTiZ272ET6Ua_M-22">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="1" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-1" value="Smartsheet" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="5" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-34" value="&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="52" y="369" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-35" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="165" as="sourcePoint"/>
+            <mxPoint x="680" y="115" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-42" value="Planification des resources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1240" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-43" target="Hdip2DMTiZ272ET6Ua_M-44">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-43" value="Attribution des ressources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1360" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="1460" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-48" value="Go Projet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1360" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629" y="1490" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-44" value="Embauche de pigistes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="1460" width="270" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="1600" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-59" value="Organisation et agilité" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1570" width="270" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Hdip2DMTiZ272ET6Ua_M-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="1520" as="sourcePoint"/>
+            <mxPoint x="900" y="1570" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.181;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-47" target="Hdip2DMTiZ272ET6Ua_M-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="447.5" y="1380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-47" target="Hdip2DMTiZ272ET6Ua_M-73">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-47" value="Projet en développement (possibilité de faisabilité" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1240" width="185" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-73" value="Tous les projets en dév et en cours." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1240" width="185" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-64" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1390" as="sourcePoint"/>
+            <mxPoint x="438" y="1390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-65" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Hdip2DMTiZ272ET6Ua_M-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1270" as="sourcePoint"/>
+            <mxPoint x="590" y="1220" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-66" target="Hdip2DMTiZ272ET6Ua_M-69">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-66" value="Attribution des ressources selon des livrables" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1465" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdip2DMTiZ272ET6Ua_M-69" target="Hdip2DMTiZ272ET6Ua_M-71">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-69" value="Time tracking par employés / projets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1465" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-71" value="Suivi des coûts par projet&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1605" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hdip2DMTiZ272ET6Ua_M-68" value="BNF&amp;nbsp;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1550" width="70" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
